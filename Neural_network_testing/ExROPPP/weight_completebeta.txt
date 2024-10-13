@@ -1,0 +1,658 @@
+Execution of ExROPPP parameter fitting code rad_optimise started at: 2024-10-13 15:27:13
+
+---------------------- Parameter Fitting  ----------------------
+
+Initial parameters: t = -25.826087, tp = -23.673914, U = 1.875152, r0 = 7.648412, alphan = -3.029431, tcn = -21.463659, Unn = 1.709508, r0nn = 12.299901, alphan2 = -18.206525, tcn2 = -25.985285, tpcn2 = -23.819845, Un2n2 = 1.613543, r0n2n2 = 17.063119, alpha_cl = -13.258939, tccl = -15.504887, Uclcl = 1.618003, r0clcl = 8.239778
+Weights: d1 = 1.000000, bright state(s) = 1.000000, q1 (if any) = 0.000000, osc ratio (if not C) = 1.000000
+allyl
+d1 state exp / nm = 403.907737
+d1 state calc / nm = 510.387795
+bright state exp / nm = 247.999351
+bright state calc / nm = 250.967705
+q1 gmc-qdpt / nm = 204.282826
+q1 state = 392.205194
+fitness = 0.413610
+
+benzyl
+d1 state exp / nm = 450.000000
+d1 state calc / nm = 563.778923
+bright state exp / nm = 310.000000
+bright state calc / nm = 228.073341
+bright state exp / nm = 260.000000
+bright state calc / nm = 218.025015
+q1 gmc-qdpt / nm = 280.457415
+q1 state = 467.741497
+fitness = 3.216045
+
+dpm
+d1 state exp / nm = 523.000000
+d1 state calc / nm = 649.545961
+bright state exp / nm = 336.000000
+bright state calc / nm = 379.259632
+q1 gmc-qdpt / nm = 294.366214
+q1 state = 482.896454
+fitness = 0.390460
+
+trityl
+d1 state exp / nm = 515.463917
+d1 state calc / nm = 609.697869
+bright state exp / nm = 344.827586
+bright state calc / nm = 378.904505
+q1 gmc-qdpt / nm = 286.134278
+q1 state = 490.498816
+fitness = 0.242770
+
+dpxm
+d1 state exp / nm = 598.802395
+d1 state calc / nm = 650.019523
+bright state exp / nm = 374.531835
+bright state calc / nm = 411.135203
+bright state exp / nm = 344.827586
+bright state calc / nm = 379.011569
+fitness = 0.218642
+
+c07_truncated
+d1 state exp / nm = 434.000000
+d1 state calc / nm = 605.870353
+fitness = 0.656743
+
+pah20_truncated
+d1 state exp / nm = 550.000000
+d1 state calc / nm = 688.260207
+bright state exp / nm = 263.837183
+bright state calc / nm = 392.724859
+fitness = 2.583587
+
+pdxm
+d1 state exp / nm = 609.756098
+d1 state calc / nm = 659.615295
+bright state exp / nm = 409.836066
+bright state calc / nm = 424.399623
+bright state exp / nm = 359.712230
+bright state calc / nm = 397.286790
+fitness = 0.140668
+
+ttm
+d1 state exp / nm = 544.000000
+d1 state calc / nm = 569.028004
+bright state exp / nm = 374.000000
+bright state calc / nm = 358.471004
+intensity ratio = 0.022280
+fosc ratio = 0.000009
+fitness = 0.031169
+
+ptm
+d1 state exp / nm = 570.000000
+d1 state calc / nm = 573.529924
+bright state exp / nm = 386.000000
+bright state calc / nm = 356.337971
+intensity ratio = 0.050000
+fosc ratio = 0.000001
+fitness = 0.074168
+
+txm
+d1 state exp / nm = 609.756098
+d1 state calc / nm = 654.653275
+bright state exp / nm = 420.168067
+bright state calc / nm = 424.895896
+fitness = 0.020524
+
+m1ttm_truncated
+d1 state exp / nm = 544.000000
+d1 state calc / nm = 577.942369
+bright state exp / nm = 374.000000
+bright state calc / nm = 362.582298
+intensity ratio = 0.022280
+fosc ratio = 0.000002
+fitness = 0.029310
+
+c_01
+d1 state exp / nm = 573.000000
+d1 state calc / nm = 638.040711
+bright state exp / nm = 385.000000
+bright state calc / nm = 370.148834
+intensity ratio = 0.057143
+fosc ratio = 0.005810
+fitness = 0.067981
+
+m2ttm_truncated
+d1 state exp / nm = 544.000000
+d1 state calc / nm = 579.798342
+bright state exp / nm = 374.000000
+bright state calc / nm = 363.457589
+intensity ratio = 0.022280
+fosc ratio = 0.000006
+fitness = 0.029544
+
+m3ttm_truncated
+d1 state exp / nm = 544.000000
+d1 state calc / nm = 581.509513
+bright state exp / nm = 374.000000
+bright state calc / nm = 366.087605
+intensity ratio = 0.022280
+fosc ratio = 0.000023
+fitness = 0.027242
+
+p3ttm
+d1 state exp / nm = 541.000000
+d1 state calc / nm = 612.003909
+bright state exp / nm = 408.000000
+bright state calc / nm = 400.647394
+intensity ratio = 0.022018
+fosc ratio = 0.000047
+fitness = 0.074289
+
+3_t3ttm_truncated
+d1 state exp / nm = 545.000000
+d1 state calc / nm = 611.737697
+bright state exp / nm = 410.000000
+bright state calc / nm = 400.190298
+intensity ratio = 0.021739
+fosc ratio = 0.000048
+fitness = 0.067561
+
+4_t3ttm_truncated
+d1 state exp / nm = 555.000000
+d1 state calc / nm = 614.353862
+bright state exp / nm = 413.000000
+bright state calc / nm = 402.103834
+intensity ratio = 0.029630
+fosc ratio = 0.000048
+fitness = 0.054074
+
+2_t3ttm_truncated
+d1 state exp / nm = 543.000000
+d1 state calc / nm = 593.332783
+bright state exp / nm = 389.000000
+bright state calc / nm = 383.729819
+intensity ratio = 0.024096
+fosc ratio = 0.000039
+fitness = 0.040013
+
+3,5_x3ttm_truncated
+d1 state exp / nm = 548.000000
+d1 state calc / nm = 611.936747
+bright state exp / nm = 400.000000
+bright state calc / nm = 400.335500
+intensity ratio = 0.028000
+fosc ratio = 0.000045
+fitness = 0.056669
+
+2,6_x3ttm_truncated
+d1 state exp / nm = 536.000000
+d1 state calc / nm = 581.350565
+bright state exp / nm = 377.000000
+bright state calc / nm = 365.774963
+intensity ratio = 0.025862
+fosc ratio = 0.000022
+fitness = 0.043414
+
+2,5_x3ttm_truncated
+d1 state exp / nm = 543.000000
+d1 state calc / nm = 594.003110
+bright state exp / nm = 390.000000
+bright state calc / nm = 384.307510
+intensity ratio = 0.032927
+fosc ratio = 0.000039
+fitness = 0.041736
+
+2,4_x3ttm_truncated
+d1 state exp / nm = 538.000000
+d1 state calc / nm = 595.045474
+bright state exp / nm = 395.000000
+bright state calc / nm = 385.389087
+intensity ratio = 0.040000
+fosc ratio = 0.000037
+fitness = 0.056534
+
+2,6_ipp3ttm_truncated
+d1 state exp / nm = 540.000000
+d1 state calc / nm = 582.746839
+bright state exp / nm = 378.000000
+bright state calc / nm = 366.260860
+fitness = 0.039418
+
+ttm_1cz
+d1 state exp / nm = 600.000000
+d1 state calc / nm = 591.885568
+bright state exp / nm = 374.000000
+bright state calc / nm = 366.545386
+intensity ratio = 0.115702
+fosc ratio = 0.030009
+fitness = 0.012691
+
+czbtm
+d1 state exp / nm = 554.000000
+d1 state calc / nm = 630.061465
+bright state exp / nm = 387.000000
+bright state calc / nm = 375.088882
+intensity ratio = 0.288679
+fosc ratio = 0.057527
+fitness = 0.136774
+
+ttm_id
+d1 state exp / nm = 542.000000
+d1 state calc / nm = 598.219900
+bright state exp / nm = 373.000000
+bright state calc / nm = 362.236921
+intensity ratio = 0.154000
+fosc ratio = 0.027870
+fitness = 0.071879
+
+ttm_id2
+d1 state exp / nm = 617.000000
+d1 state calc / nm = 590.740661
+bright state exp / nm = 390.000000
+bright state calc / nm = 392.259779
+intensity ratio = 0.200000
+fosc ratio = 0.001555
+fitness = 0.047695
+
+ttm_1cz_anth
+d1 state exp / nm = 600.000000
+d1 state calc / nm = 574.916259
+bright state exp / nm = 374.000000
+bright state calc / nm = 469.014257
+intensity ratio = 0.114286
+fosc ratio = 0.000001
+fitness = 0.472208
+
+ttm_3pcz
+d1 state exp / nm = 610.000000
+d1 state calc / nm = 609.915985
+bright state exp / nm = 375.000000
+bright state calc / nm = 370.151277
+intensity ratio = 0.131579
+fosc ratio = 0.055760
+fitness = 0.007624
+
+ttm_1cz_phanth
+d1 state exp / nm = 600.000000
+d1 state calc / nm = 574.988371
+bright state exp / nm = 374.000000
+bright state calc / nm = 515.999273
+intensity ratio = 0.100000
+fosc ratio = 0.000000
+fitness = 0.850348
+
+ttm_id3
+d1 state exp / nm = 564.000000
+d1 state calc / nm = 594.045181
+fitness = 0.012362
+
+ttm_cz_cl2
+d1 state exp / nm = 556.000000
+d1 state calc / nm = 590.091493
+bright state exp / nm = 374.000000
+bright state calc / nm = 366.698814
+intensity ratio = 0.067802
+fosc ratio = 0.017138
+fitness = 0.023521
+
+ttm_3ncz
+d1 state exp / nm = 604.000000
+d1 state calc / nm = 614.781294
+bright state exp / nm = 378.000000
+bright state calc / nm = 397.673809
+intensity ratio = 0.133000
+fosc ratio = 0.027828
+fitness = 0.038688
+
+c13_truncated
+d1 state exp / nm = 588.000000
+d1 state calc / nm = 563.883967
+bright state exp / nm = 388.000000
+bright state calc / nm = 375.000000
+intensity ratio = 0.055556
+fosc ratio = 0.108366
+fitness = 0.023193
+
+ttm_cz_ph2
+d1 state exp / nm = 618.000000
+d1 state calc / nm = 597.702511
+fitness = 0.004642
+
+ttm_cz_et2_truncated
+d1 state exp / nm = 581.000000
+d1 state calc / nm = 598.715818
+bright state exp / nm = 375.000000
+bright state calc / nm = 366.993496
+intensity ratio = 0.080000
+fosc ratio = 0.041958
+fitness = 0.010637
+
+ttm_cz2
+d1 state exp / nm = 609.000000
+d1 state calc / nm = 594.694756
+bright state exp / nm = 376.000000
+bright state calc / nm = 409.697605
+intensity ratio = 0.232127
+fosc ratio = 0.000024
+fitness = 0.129828
+
+ttm_dbcz
+d1 state exp / nm = 584.000000
+d1 state calc / nm = 614.578875
+fitness = 0.011158
+
+ptm_3pcz
+d1 state exp / nm = 606.000000
+d1 state calc / nm = 564.508228
+bright state exp / nm = 380.000000
+bright state calc / nm = 365.799175
+intensity ratio = 0.070000
+fosc ratio = 0.000219
+fitness = 0.043527
+
+c_16
+d1 state exp / nm = 856.000000
+d1 state calc / nm = 620.921105
+fitness = 0.300704
+
+ptm_pcz
+d1 state exp / nm = 566.000000
+d1 state calc / nm = 572.737065
+bright state exp / nm = 382.000000
+bright state calc / nm = 371.205728
+intensity ratio = 0.050000
+fosc ratio = 0.000012
+fitness = 0.012070
+
+ttm_cz3
+d1 state exp / nm = 614.000000
+d1 state calc / nm = 599.736483
+bright state exp / nm = 377.000000
+bright state calc / nm = 441.519811
+intensity ratio = 0.341463
+fosc ratio = 0.002276
+fitness = 0.348314
+
+ptm_tpa_me_truncated
+d1 state exp / nm = 769.000000
+d1 state calc / nm = 574.655431
+bright state exp / nm = 385.000000
+bright state calc / nm = 371.053928
+intensity ratio = 0.066667
+fosc ratio = 0.000231
+fitness = 0.316374
+
+ttm_tcz
+d1 state exp / nm = 612.000000
+d1 state calc / nm = 591.172202
+bright state exp / nm = 435.000000
+bright state calc / nm = 526.650727
+intensity ratio = 0.312500
+fosc ratio = 0.337439
+fitness = 0.251742
+
+ptm_tpa_cl
+d1 state exp / nm = 645.000000
+d1 state calc / nm = 573.502071
+bright state exp / nm = 382.000000
+bright state calc / nm = 370.989659
+intensity ratio = 0.052632
+fosc ratio = 0.000076
+fitness = 0.069470
+
+ttm_dpa
+d1 state exp / nm = 644.000000
+d1 state calc / nm = 624.241398
+bright state exp / nm = 447.000000
+bright state calc / nm = 418.076292
+intensity ratio = 0.666667
+fosc ratio = 0.085646
+fitness = 0.378121
+
+PyBTM
+d1 state exp / nm = 541.000000
+d1 state calc / nm = 567.482373
+bright state exp / nm = 370.000000
+bright state calc / nm = 352.779857
+intensity ratio = 0.039764
+fosc ratio = 0.000011
+fitness = 0.039773
+
+ttm_dbpa
+d1 state exp / nm = 664.000000
+d1 state calc / nm = 627.589939
+bright state exp / nm = 455.000000
+bright state calc / nm = 521.585291
+intensity ratio = 0.652174
+fosc ratio = 0.584577
+fitness = 0.137313
+
+ptm_tpa
+d1 state exp / nm = 680.000000
+d1 state calc / nm = 575.021445
+bright state exp / nm = 377.000000
+bright state calc / nm = 371.167033
+intensity ratio = 0.070000
+fosc ratio = 0.000384
+fitness = 0.118320
+
+ttm_pdmac_truncated
+d1 state exp / nm = 545.000000
+d1 state calc / nm = 605.010441
+bright state exp / nm = 375.000000
+bright state calc / nm = 375.982026
+intensity ratio = 0.030000
+fosc ratio = 0.265221
+fitness = 0.106321
+
+TrisPyTM
+d1 state exp / nm = 518.000000
+d1 state calc / nm = 562.318074
+bright state exp / nm = 350.000000
+bright state calc / nm = 328.492792
+intensity ratio = 0.049105
+fosc ratio = 0.000017
+fitness = 0.091786
+
+MetaPyBTM
+d1 state exp / nm = 538.000000
+d1 state calc / nm = 568.217678
+bright state exp / nm = 371.000000
+bright state calc / nm = 358.656247
+intensity ratio = 0.025932
+fosc ratio = 0.000054
+fitness = 0.028918
+
+BisPyTM
+d1 state exp / nm = 536.000000
+d1 state calc / nm = 594.629445
+bright state exp / nm = 355.000000
+bright state calc / nm = 366.541446
+intensity ratio = 0.060606
+fosc ratio = 0.033526
+fitness = 0.064843
+
+PyBTM_PH2
+d1 state exp / nm = 567.000000
+d1 state calc / nm = 600.673230
+bright state exp / nm = 410.000000
+bright state calc / nm = 388.074487
+fitness = 0.044217
+
+TTM-deltaPyID
+d1 state exp / nm = 621.280000
+d1 state calc / nm = 594.629445
+bright state exp / nm = 403.063000
+bright state calc / nm = 366.541446
+intensity ratio = 0.133337
+fosc ratio = 0.033526
+fitness = 0.111900
+
+PyPHBTM
+d1 state exp / nm = 585.000000
+d1 state calc / nm = 615.363867
+bright state exp / nm = 375.000000
+bright state calc / nm = 375.000000
+intensity ratio = 0.071429
+fosc ratio = 0.000003
+fitness = 0.016038
+
+TTM-alphaPyID2
+d1 state exp / nm = 580.000000
+d1 state calc / nm = 592.015613
+bright state exp / nm = 375.000000
+bright state calc / nm = 407.096622
+fitness = 0.069833
+
+TTM_Bi2
+d1 state exp / nm = 558.000000
+d1 state calc / nm = 592.385130
+bright state exp / nm = 384.000000
+bright state calc / nm = 389.592013
+fitness = 0.018782
+
+TTM-deltaPyID2
+d1 state exp / nm = 590.000000
+d1 state calc / nm = 594.076661
+bright state exp / nm = 380.000000
+bright state calc / nm = 408.360963
+fitness = 0.051555
+
+TTM_AID
+d1 state exp / nm = 563.000000
+d1 state calc / nm = 598.361891
+bright state exp / nm = 375.000000
+bright state calc / nm = 362.000636
+fitness = 0.031034
+
+TTM_DACz
+d1 state exp / nm = 565.000000
+d1 state calc / nm = 597.689669
+bright state exp / nm = 373.000000
+bright state calc / nm = 365.814106
+fitness = 0.018668
+
+TTM_2PYM
+d1 state exp / nm = 563.000000
+d1 state calc / nm = 613.512045
+bright state exp / nm = 375.000000
+bright state calc / nm = 363.535723
+fitness = 0.043746
+
+PyBTM_MeS_truncated
+d1 state exp / nm = 541.000000
+d1 state calc / nm = 572.318611
+bright state exp / nm = 370.000000
+bright state calc / nm = 357.441066
+fitness = 0.029590
+
+MetaPyTM_py
+d1 state exp / nm = 550.000000
+d1 state calc / nm = 638.985816
+bright state exp / nm = 375.000000
+bright state calc / nm = 363.067006
+fitness = 0.110361
+
+PyBTM_MeS2_truncated
+d1 state exp / nm = 541.000000
+d1 state calc / nm = 573.359842
+bright state exp / nm = 370.000000
+bright state calc / nm = 360.541338
+fitness = 0.024458
+
+ttetm-cz
+d1 state exp / nm = 620.000000
+d1 state calc / nm = 570.756878
+bright state exp / nm = 378.000000
+bright state calc / nm = 369.124749
+fitness = 0.035987
+
+TTM-alphaPyID
+d1 state exp / nm = 586.790000
+d1 state calc / nm = 597.390084
+bright state exp / nm = 373.580000
+bright state calc / nm = 365.876066
+intensity ratio = 0.100000
+fosc ratio = 0.035813
+fitness = 0.010409
+
+TTM_Bi3
+d1 state exp / nm = 564.000000
+d1 state calc / nm = 599.358053
+bright state exp / nm = 405.000000
+bright state calc / nm = 397.063300
+fitness = 0.020563
+
+TTM-betaPyID
+d1 state exp / nm = 609.000000
+d1 state calc / nm = 589.639375
+bright state exp / nm = 405.000000
+bright state calc / nm = 366.475281
+intensity ratio = 0.043142
+fosc ratio = 0.025117
+fitness = 0.108358
+
+TTM_DAID
+d1 state exp / nm = 558.000000
+d1 state calc / nm = 602.951847
+bright state exp / nm = 375.000000
+bright state calc / nm = 361.898167
+fitness = 0.041768
+
+TTM-gammaPyID
+d1 state exp / nm = 598.000000
+d1 state calc / nm = 590.728568
+bright state exp / nm = 373.000000
+bright state calc / nm = 365.732989
+intensity ratio = 0.114934
+fosc ratio = 0.023210
+fitness = 0.013427
+
+TTM_DACzp
+d1 state exp / nm = 570.000000
+d1 state calc / nm = 596.209012
+bright state exp / nm = 375.000000
+bright state calc / nm = 365.867579
+fitness = 0.015954
+
+MetaPyBTM-Tpy
+d1 state exp / nm = 580.000000
+d1 state calc / nm = 609.270022
+bright state exp / nm = 360.000000
+bright state calc / nm = 362.611135
+fitness = 0.011161
+
+TTM-DAbCz
+d1 state exp / nm = 575.000000
+d1 state calc / nm = 670.619242
+bright state exp / nm = 375.000000
+bright state calc / nm = 373.470203
+fitness = 0.094706
+
+MetaPyBTM-TPA-Me2
+d1 state exp / nm = 828.000000
+d1 state calc / nm = 619.461784
+bright state exp / nm = 390.000000
+bright state calc / nm = 399.410468
+fitness = 0.259716
+
+PyBTM-TPAP
+d1 state exp / nm = 714.000000
+d1 state calc / nm = 601.855017
+bright state exp / nm = 380.000000
+bright state calc / nm = 370.399998
+fitness = 0.111843
+
+ttm_cz_ph
+d1 state exp / nm = 608.000000
+d1 state calc / nm = 596.546495
+fitness = 0.001533
+
+ttm_bcz
+d1 state exp / nm = 596.000000
+d1 state calc / nm = 602.403456
+fitness = 0.000489
+
+ttm_bczp
+d1 state exp / nm = 648.000000
+d1 state calc / nm = 693.940221
+bright state exp / nm = 385.000000
+bright state calc / nm = 377.726668
+intensity ratio = 0.153061
+fosc ratio = 0.000485
+fitness = 0.043169
+iteration 1 need 82.6168390000239 seconds with total_fit 14.116275934419424

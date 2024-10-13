@@ -1,0 +1,6 @@
+Execution of ExROPPP parameter fitting code rad_optimise started at: 2024-10-13 15:18:01
+
+---------------------- Parameter Fitting  ----------------------
+
+Initial parameters: t = -25.826087, tp = -23.673914, U = 1.875152, r0 = 7.648412, alphan = -3.029431, tcn = -21.463659, Unn = 1.709508, r0nn = 12.299901, alphan2 = -18.206525, tcn2 = -25.985285, tpcn2 = -23.819845, Un2n2 = 1.613543, r0n2n2 = 17.063119, alpha_cl = -13.258939, tccl = -15.504887, Uclcl = 1.618003, r0clcl = 8.239778
+Weights: d1 = 1.000000, bright state(s) = 1.000000, q1 (if any) = 0.000000, osc ratio (if not C) = 1.000000

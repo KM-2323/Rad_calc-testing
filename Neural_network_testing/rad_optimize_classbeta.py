@@ -7,7 +7,7 @@ from subprocess import getoutput
 import sys
 import os
 import argparse
-from rad_settings_opt import *
+from Neural_network_testing.ExROPPP.rad_settings_opt import *
 
 import time
 

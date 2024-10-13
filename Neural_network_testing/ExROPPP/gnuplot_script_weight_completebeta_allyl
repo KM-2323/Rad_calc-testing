@@ -1,0 +1,12 @@
+#simulated spectrum
+set term pdf size 6,4
+unset key
+set output 'allyl.pdf'
+set xrange [200:700]
+set samples 10000
+set xlabel 'Wavelength / nm' font ',18'
+set ylabel 'Absorbance / Arbitrary Units' font ',18'
+set xtics font ',18'
+set ytics font ',18'
+set bmargin 4
+p 0.000*1/(1+((510.388-x)/(0.5*0.00022246941045606225*510.388*x))**2)+0.000*1/(1+((392.205-x)/(0.5*0.00022246941045606225*392.205*x))**2)+0.330*1/(1+((250.968-x)/(0.5*0.00022246941045606225*250.968*x))**2)+0.122*1/(1+((173.926-x)/(0.5*0.00022246941045606225*173.926*x))**2)+0.000*1/(1+((170.564-x)/(0.5*0.00022246941045606225*170.564*x))**2) lw 3 dt 1

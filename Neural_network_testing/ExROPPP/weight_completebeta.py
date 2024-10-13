@@ -103,7 +103,7 @@ hetero_data={'ttm':[544,374,850/38150],'ptm':[570,386,0.13/2.6],'c_01':[573,385,
              'ttm_cz_ph':[608],
              'ttm_bcz':[596],'ttm_bczp':[648, 385, 0.15/0.98]
              }
-opt= True
+opt= False
 normalise_weights=['per_molecule','per_state'][1] #normalisation of weights for fitness function#normalisation of weights for fitness function
 import os 
 run_hours = 10
